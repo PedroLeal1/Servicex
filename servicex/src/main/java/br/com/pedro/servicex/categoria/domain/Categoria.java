@@ -1,7 +1,7 @@
 package br.com.pedro.servicex.categoria.domain;
 
+import br.com.pedro.servicex.servico.domain.Servico;
 import jakarta.persistence.*;
-import jakarta.persistence.criteria.CriteriaBuilder;
 import lombok.Data;
 
 import java.util.List;

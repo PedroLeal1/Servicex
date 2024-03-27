@@ -1,9 +1,9 @@
-package br.com.pedro.servicex.categoria.resources;
+package br.com.pedro.servicex.servico.resources;
 
 
 
-import br.com.pedro.servicex.categoria.domain.Servico;
-import br.com.pedro.servicex.categoria.services.ServicoService;
+import br.com.pedro.servicex.servico.domain.Servico;
+import br.com.pedro.servicex.servico.services.ServicoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
